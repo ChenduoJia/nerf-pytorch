@@ -1,0 +1,17 @@
+expname = my_scene
+basedir = ./logs
+datadir = ./data/my_scene
+dataset_type = llff
+
+factor = 8
+no_ndc = True
+use_viewdirs = True
+
+N_samples = 32
+N_importance = 64
+
+lrate = 5e-4
+lrate_decay = 500
+chunk = 4096
+netdepth = 8
+netwidth = 256
