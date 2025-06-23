@@ -1,4 +1,4 @@
-本项目参考自https://github.com/yenchenlin/nerf-pytorch的源码
+本项目参考自https://github.com/yenchenlin/nerf-pytorch 的源码
 
 文件结构应如下所示
 nerf-pytorch/
